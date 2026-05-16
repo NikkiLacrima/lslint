@@ -5,7 +5,7 @@
 * Removed builtins_txt.cc it is rebuilt when needed by the make system
 
 #### Forked from  
-[![Makopo](https://circleci.com/gh/Makopo/lslint.svg?style=svg)](https://app.circleci.com/pipelines/github/Makopo/lslint)
+https://github.com/Makopo/lslint/
 
 #### Releases
 

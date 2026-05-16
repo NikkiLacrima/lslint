@@ -4,7 +4,7 @@
 * LSL definitions taken from https://github.com/secondlife/lsl-definitions/blob/main/generated/builtins.txt
 * Removed builtins_txt.cc it is rebuilt when needed by the make system
 
-#### Foked from  
+#### Forked from  
 [![Makopo](https://circleci.com/gh/Makopo/lslint.svg?style=svg)](https://app.circleci.com/pipelines/github/Makopo/lslint)
 
 #### Releases

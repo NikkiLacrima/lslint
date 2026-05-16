@@ -1,5 +1,10 @@
 `lslint` is a tool to check the syntactic and semantic validity of Second Life LSL scripts.
 
+#### Nikki Lacrima fork 20260516
+* LSL definitions taken from https://github.com/secondlife/lsl-definitions/blob/main/generated/builtins.txt
+* Removed builtins_txt.cc it is rebuilt when needed by the make system
+
+#### Foked from  
 [![Makopo](https://circleci.com/gh/Makopo/lslint.svg?style=svg)](https://app.circleci.com/pipelines/github/Makopo/lslint)
 
 #### Releases
@@ -24,6 +29,7 @@ and lots of right recursion. From a compiler perspective, it does everything
 wrong, and is not recommended as a base for anything but a lint tool.
 
 #### Additional changes
+
 ##### Makopoppo
 * added nmake support (see NMAkefile for details).
 * dropped builtins.txt creator. if you look for new builtins.txt, see [kwdb project](https://github.com/Sei-Lisa/kwdb)
